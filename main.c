@@ -1,4 +1,4 @@
-#include "mastermind.h"
+#include "my_mastermind.h"
 #include <unistd.h>
 
 int main(int argc, char *argv[]) {

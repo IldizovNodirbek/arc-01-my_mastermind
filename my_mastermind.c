@@ -1,4 +1,4 @@
-#include "mastermind.h"
+#include "my_mastermind.h"
 
 void generateSecretCode(char *secretCode) {
     for (int i = 0; i < CODE_LENGTH; ++i) {
